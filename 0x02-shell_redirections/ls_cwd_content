@@ -1,0 +1,30 @@
+#!/bin/bash
+ls -la >> ls_cwd_content
+total 104
+drwxr-xr-x 2 root root 4096 Jun 27 07:44 .
+drwxr-xr-x 6 root root  121 Jun 27 05:22 ..
+-rwxr-xr-x 1 root root   39 Jun 27 06:31 0-hello_world
+-rwxr-xr-x 1 root root   12 Jun 27 05:57 10-no_more_js
+-rwxr-xr-x 1 root root   12 Jun 27 06:02 11-directories
+-rwxr-xr-x 1 root root   12 Jun 27 06:08 12-newest_files
+-rwxr-xr-x 1 root root   12 Jun 27 06:09 13-unique
+-rwxr-xr-x 1 root root   12 Jun 27 06:09 14-findthatword
+-rwxr-xr-x 1 root root   12 Jun 27 06:10 15-countthatword
+-rwxr-xr-x 1 root root   12 Jun 27 06:10 16-whatsnext
+-rwxr-xr-x 1 root root   12 Jun 27 06:11 17-hidethisword
+-rwxr-xr-x 1 root root   12 Jun 27 06:11 18-letteronly
+-rwxr-xr-x 1 root root   12 Jun 27 06:11 19-AZ
+-rwxr-xr-x 1 root root   18 Jun 27 06:24 1-confused_smiley
+-rwxr-xr-x 1 root root   12 Jun 27 06:16 20-hiago
+-rwxr-xr-x 1 root root   12 Jun 27 06:17 21-reverse
+-rwxr-xr-x 1 root root   12 Jun 27 06:17 22-users_and_homes
+-rwxr-xr-x 1 root root 3269 Jun 27 06:43 2-hellofile
+-rwxr-xr-x 1 root root 4097 Jun 27 06:56 3-twofiles
+-rwxr-xr-x 1 root root 1272 Jun 27 06:56 4-lastlines
+-rwxr-xr-x 1 root root 1334 Jun 27 06:57 5-firstlines
+-rwxr-xr-x 1 root root   12 Jun 27 06:59 6-third_line
+-rwxr-xr-x 1 root root  115 Jun 27 07:34 7-file
+-rwxr-xr-x 1 root root   12 Jun 27 06:21 8-cwd_state
+-rwxr-xr-x 1 root root   12 Jun 27 06:21 9-duplicate_last_line
+-rwxr--r-- 1 root root    0 Jun 27 07:38 iacta
+-rwxr--r-- 1 root root   37 Jun 27 07:44 ls_cwd_content
